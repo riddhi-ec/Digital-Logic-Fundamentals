@@ -1,5 +1,12 @@
 # Digital-Logic-Fundamentals
 Digital Logic concepts and notes for vlsi basics
+Digital_Logic_Fundamentals/
+├── README.md
+├── Boolean_Algebra.md
+├── Logic_Gates.md
+├── Combinational_Circuits.md
+├── Sequential_Circuits.md
+
 # Digital Logic Fundamentals
 
 ## 📘 Overview
@@ -19,5 +26,4 @@ To build a strong foundation before starting Verilog HDL.
 - Markdown
 - GitHub
 
-## 🚀 Next Step
-RTL design using Verilog HDL.
+
